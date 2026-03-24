@@ -10,6 +10,13 @@ const Projects = () => {
       live: "https://my-project-xv52.vercel.app/",
       github: "https://github.com/Dharmeshh02",
     },
+    {
+      title: "Marketiq Info",
+      desc: "Business / information website focused on modern UI, performance and responsive design.",
+      tech: ["React", "CSS", "JavaScript"],
+      live: "https://marketiqinfo.in/",
+      github: "https://github.com/Dharmeshh02", // agar alag repo ho to yaha change kar
+    },
   ];
 
   return (
